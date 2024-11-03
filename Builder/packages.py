@@ -12,7 +12,7 @@ BASE_PACKAGES = [
     "cmake", "clang", "gzip", "imagemagick", "make", "openssh", "pulseaudio-bluetooth", "shellcheck",
     "vlc", "usbutils", "picom", "alsa-plugins", "alsa-tools", "alsa-utils", "ffmpeg",
     "p7zip", "gparted", "sshfs", "xclip", "gpick", "wget", "ueberzug", "netctl", "light", "libreoffice",
-    "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd", "ttf-iosevka-nerd"
+    "breeze", "vulkan-intel", "intel-ucode", "ttf-jetbrains-mono", "ttf-jetbrains-mono-nerd"
 ]
 
 DEV_PACKAGES = [
