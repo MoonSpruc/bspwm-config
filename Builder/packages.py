@@ -16,7 +16,7 @@ BASE_PACKAGES = [
 ]
 
 DEV_PACKAGES = [
-    "screenkey", "timeshift", "pinta", "ghex", "keepassxc", "gufw", "python-pywal",
+    "timeshift", "pinta", "ghex", "keepassxc", "gufw", "python-pywal",
     "bleachbit", "veracrypt", "homebank", "gtkhash", "gnome-firmware", "touche", "dconf-editor",
     "neovim", "obs-studio", "tmux", "code", "deluge-gtk", "flameshot", "python-pip", "cloc"
 ]
