@@ -24,7 +24,7 @@ Shift_L + alt
 	sh $HOME/bin/change_language.sh
     
 # Launch Rofi Menu
-alt + e
+alt + space
 	rofi -show drun
 
 # Launch Power Menu
@@ -126,7 +126,7 @@ super + ctrl + shift + space
 #
 
 # Expanding windows
-super + control {h,j,k,l}
+super + control {h,l,k,j}
     bspc node -z {left -20 0,right 20 0,top 0 -20,bottom 0 20} 
 
 # Send the window to another edge of the screen
