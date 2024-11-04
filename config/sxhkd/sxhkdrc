@@ -31,6 +31,10 @@ alt + space
 super + x
     sh $HOME/bin/powermenu
 
+# Launch Rofi Calc
+super + k
+    rofi -show calc -modi calc -no-show-match -no-sort -no-history -no-persist-history
+
 # Launch Thunar
 super + e
 	thunar
